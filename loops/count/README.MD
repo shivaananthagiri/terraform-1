@@ -2,6 +2,7 @@
 * count is used fot=r ittration purpose
 * when we want to write the same code for multiple times we can use count
 * count = "number"
+* terraform provides a special variable called count.index
 ### [count.index]
 * it is used to switch in ittration 
 * it stores only number i.e [count.index] = 0, 1, 2,.............n
