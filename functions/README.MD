@@ -71,3 +71,5 @@
 *   and, 
 *   that
 * ]
+# NOTE
+## FOR BEST PRACTICE USE FUNCTIONS WITH INTERPOLATION "${function+variables+text+special charectors}"
